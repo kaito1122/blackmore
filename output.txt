@@ -1,0 +1,23 @@
+{'name': "Blackmore's Night", 'id': '5BnNG7QQQDTNd43ozx5y13', 'genres': ['celtic', 'medieval', 'medieval metal', 'celtic rock', 'folk rock'], 'followers': 183771, 'popularity': 47, 'url': 'https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13'}
+{'Under A Violet Moon': ['folk', 'celtic', 'medieval', 'folk rock', 'renaissance'], 'Castles And Dreams': ['folk', 'medieval', 'celtic', 'folk rock', 'new age'], 'Past Time with Good Company': ['folk', 'medieval', 'renaissance', 'female vocalists', 'celtic'], 'Morning Star': ['folk', 'medieval', 'celtic', 'renaissance', 'folk rock'], 'Avalon': ['folk', 'medieval', 'celtic', 'female vocalists', 'folk rock'], 'Possum Goes to Prague': ['folk', 'instrumental', 'medieval', 'celtic', 'female vocalist'], 'Wind in the Willows': ['folk', 'medieval', 'folk rock', 'female vocalists', 'renaissance'], 'Gone with the Wind': ['folk', 'medieval', 'folk rock', 'celtic', 'Blackmores Night'], 'Beyond the Sunset': ['instrumental', 'folk', 'new age', 'renaissance', 'celtic'], 'March the Heroes Home': ['folk', 'medieval', 'female vocalists', 'folk rock', 'celtic'], 'Spanish Nights (I Remember It Well)': ['folk', 'medieval', 'folk rock', 'renaissance', "Blackmore's Night"], "Catherine Howard's Fate": ['folk', 'medieval', 'folk rock', 'renaissance', 'Ballad'], "Fool's Gold": ['folk', 'medieval', 'celtic', 'folk rock', 'medieval folk'], 'Durch den Wald zum Bach Haus': ['instrumental', 'folk', 'medieval', 'renaissance', 'celtic'], 'Now and Then': ['folk', 'celtic', 'medieval', 'folk rock', 'An Danzza'], 'Self Portrait': ['folk', 'folk rock', 'celtic', 'rock', 'medieval']}
+{'folk': 16, 'celtic': 13, 'medieval': 15, 'folk rock': 12, 'renaissance': 8, 'new age': 2, 'female vocalists': 4, 'instrumental': 3, 'female vocalist': 1, 'Blackmores Night': 1, "Blackmore's Night": 1, 'Ballad': 1, 'medieval folk': 1, 'An Danzza': 1, 'rock': 1})
+
+[2,0,0,0,0,0,0,0,2,0,0,0,7,0,5,5,2,1,5,1,2,2,0,5,0,2,1,2,2,2,5,0,0,0,0,0,7
+,7,2,2,2,2,1,2,7,0,2,2,2,5,1,0,7,1,0,2,2,2,0,0,0,2,0,1,2,2,0,2,5,7,0,2,0,2
+,0,0,1,0,5,0,0,2,0,0,0,0,0,2,2,0,5,2,7,0,1,0,0,1,0,2,2,2,5,0,2,5,2,1,5,2,5
+,2,2,2,2,1,2,0]
+
+[9,7,9,9,2,2,2,7,9,2,9,2,9,2,2,2,9,1,2,9,9,9,1,2,2,1,9,2,2,2,2,2,2,9,2,0,9
+,9,2,9,2,2,1,9,2,2,2,2,2,2,1,7,7,1,0,2,9,2,9,9,5,2,2,2,2,2,2,9,2,9,2,7,9,9
+,0,9,1,9,2,2,9,2,2,9,0,2,9,2,7,2,2,2,1,2,1,7,2,1,2,9,2,2,2,2,2,0,2,1,9,2,2
+,9,9,2,2,2,2,2]
+
+[2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,2,2,4,2,2,1,1,2,9,2,2,2,2,2,2,4,9
+,9,2,2,2,9,1,9,7,2,9,2,2,2,4,7,4,1,0,9,9,2,2,2,2,2,2,2,2,2,2,2,2,9,2,2,9,9
+,0,2,1,2,2,2,2,2,2,9,2,2,2,2,9,2,9,2,1,9,1,2,2,4,2,2,2,2,2,2,2,9,2,1,2,2,2
+,2,2,1,2,1,2,2]
+
+Total Stats:  defaultdict(<class 'int'>, {'country': 184, 'blues': 52, 'pop': 16, 'jazz': 14, 'classical': 35, 'rock': 48, 'hiphop': 5})
+CNN Stats:  defaultdict(<class 'int'>, {'country': 41, 'blues': 45, 'pop': 7, 'jazz': 13, 'classical': 12})
+RNN Stats:  defaultdict(<class 'int'>, {'rock': 32, 'pop': 7, 'country': 62, 'classical': 11, 'blues': 5, 'jazz': 1})
+Hybrid Stats:  defaultdict(<class 'int'>, {'country': 81, 'classical': 12, 'hiphop': 5, 'rock': 16, 'pop': 2, 'blues': 2})
